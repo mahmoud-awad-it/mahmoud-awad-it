@@ -1,16 +1,13 @@
-## Hi there 👋
+## Mahmoud Awad
 
-<!--
-**mahmoud-awad-it/mahmoud-awad-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network Security and IT Infrastructure graduate (2024) based in Egypt. Interested in IT support, networking and security.
 
-Here are some ideas to get you started:
+- Studied networking and security; took CCNA, MCSA and Linux courses (no exams).
+- ICDL certified. Fortinet NSE in progress.
+- Built a client website with HTML, CSS and JavaScript using AI tools: https://harbyezz.com
+- Logo and social design in Canva.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Arabic (native), English (B1).
+
+Open to junior network, IT support and security roles, remote or on-site.
+Contact: awadmahmoud5040@gmail.com | https://linkedin.com/in/mahmoudawadelshahat
