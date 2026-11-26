@@ -2,7 +2,7 @@
 
 Network Security and IT Infrastructure graduate (2024) based in Egypt. Interested in IT support, networking and security.
 
-- Studied networking and security; took CCNA, MCSA and Linux courses (no exams).
+- Studied networking and security; took CCNA, MCSA and Linux courses.
 - ICDL certified. Fortinet NSE in progress.
 - Built a client website with HTML, CSS and JavaScript using AI tools: https://harbyezz.com
 - Logo and social design in Canva.
